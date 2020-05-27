@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/edytamakowiec.github.io/static/css/main.581edd56.chunk.css",
+    "main.js": "/edytamakowiec.github.io/static/js/main.a1f4cebd.chunk.js",
+    "main.js.map": "/edytamakowiec.github.io/static/js/main.a1f4cebd.chunk.js.map",
+    "runtime-main.js": "/edytamakowiec.github.io/static/js/runtime-main.c4effd1d.js",
+    "runtime-main.js.map": "/edytamakowiec.github.io/static/js/runtime-main.c4effd1d.js.map",
+    "static/js/2.ecac40cf.chunk.js": "/edytamakowiec.github.io/static/js/2.ecac40cf.chunk.js",
+    "static/js/2.ecac40cf.chunk.js.map": "/edytamakowiec.github.io/static/js/2.ecac40cf.chunk.js.map",
+    "index.html": "/edytamakowiec.github.io/index.html",
+    "precache-manifest.33429b5c400ba194bc5dfcba5f52df52.js": "/edytamakowiec.github.io/precache-manifest.33429b5c400ba194bc5dfcba5f52df52.js",
+    "service-worker.js": "/edytamakowiec.github.io/service-worker.js",
+    "static/css/main.581edd56.chunk.css.map": "/edytamakowiec.github.io/static/css/main.581edd56.chunk.css.map",
+    "static/js/2.ecac40cf.chunk.js.LICENSE.txt": "/edytamakowiec.github.io/static/js/2.ecac40cf.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/edytamakowiec.github.io/static/media/1.6057c965.jpg",
+    "static/media/2.jpeg": "/edytamakowiec.github.io/static/media/2.1a407783.jpeg",
+    "static/media/aboutMePhoto.png": "/edytamakowiec.github.io/static/media/aboutMePhoto.9a2988fa.png",
+    "static/media/fontello.css": "/edytamakowiec.github.io/static/media/fontello.a96c4569.woff",
+    "static/media/header.jpg": "/edytamakowiec.github.io/static/media/header.6f3ded46.jpg",
+    "static/media/sports_centre.jpg": "/edytamakowiec.github.io/static/media/sports_centre.b51f121b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4effd1d.js",
+    "static/js/2.ecac40cf.chunk.js",
+    "static/css/main.581edd56.chunk.css",
+    "static/js/main.a1f4cebd.chunk.js"
+  ]
+}
